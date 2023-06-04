@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/daireninAlani/daireninAlani.iml" filepath="$PROJECT_DIR$/daireninAlani/daireninAlani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdvTutar/kdvTutar.iml" filepath="$PROJECT_DIR$/kdvTutar/kdvTutar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manavKasa/manavKasa.iml" filepath="$PROJECT_DIR$/manavKasa/manavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notOrtalama/notOrtalama.iml" filepath="$PROJECT_DIR$/notOrtalama/notOrtalama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taksiMetre/taksiMetre.iml" filepath="$PROJECT_DIR$/taksiMetre/taksiMetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucgendeAlan/ucgendeAlan.iml" filepath="$PROJECT_DIR$/ucgendeAlan/ucgendeAlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vucutIndeksi/vucutIndeksi.iml" filepath="$PROJECT_DIR$/vucutIndeksi/vucutIndeksi.iml" />
+    </modules>
+  </component>
+</project>
